@@ -9,7 +9,7 @@ A real-time voting system where users can create a poll and other users can cast
 
 ## Tech Stack
 
-- **Backend**: Node.js with Express.js
+- **Backend**: Node.js with Fastify
 - **Database**: Prisma with PostgreSQL and Redis
 - **Containerization**: Docker
 - **Real-Time Communication**: Websockets
